@@ -6,7 +6,6 @@ It's a Spring Boot Rest API project with the following technologies :
 - **Hibernate** & **JPA** to manage data between API and DB
 - **Swagger** for the documentation
 - (maybe **Mockito** for the tests)
-
 ### Subject
 This is a Rest API which provides questions and corresponding answers.
 
@@ -16,6 +15,8 @@ Go to the main directory
 ```
 mvn clean install
 ```
+
+## Project
 ### Run project
 ```
 mvn spring-boot:run
