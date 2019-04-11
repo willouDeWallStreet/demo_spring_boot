@@ -27,3 +27,9 @@ mvn spring-boot:run
 swagger 2.9.2
 ### Show Swagger documentation
 Go to : [http://localhost:9090/api/swagger-ui.html](http://localhost:9090/api/swagger-ui.html)
+
+## TODO list
+- [ ] Custom SQL request
+- [ ] Filters
+- [ ] CORS (Spring Boot Security)
+- [ ] Add services
