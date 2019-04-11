@@ -16,6 +16,7 @@ Go to the main directory
 ```
 mvn clean install
 ```
+### Run project
 ```
 mvn spring-boot:run
 ```
