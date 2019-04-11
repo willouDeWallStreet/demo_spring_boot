@@ -20,5 +20,8 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+## Documentation
+### Swagger version
+swagger 2.9.2
 ### Show Swagger documentation
 Go to : [http://localhost:9090/api/swagger-ui.html](http://localhost:9090/api/swagger-ui.html)
