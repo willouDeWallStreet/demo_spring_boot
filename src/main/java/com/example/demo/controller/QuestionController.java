@@ -29,7 +29,6 @@ public class QuestionController {
                         questionId));
     }
 
-
     @PostMapping("/questions")
     public Question createQuestion(@Valid @RequestBody Question question) {
         return questionRepository.save(question);
